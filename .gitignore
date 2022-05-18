@@ -1,0 +1,9 @@
+# config vscode
+.vscode 
+
+#
+api/dist
+api/node_modules
+
+# local
+api/.env
